@@ -4,9 +4,9 @@ Flappy Bird for the terminal. One file, no dependencies, retro phosphor look.
 
 ```
  FLAPPY   SCORE 3   BEST 23                [SPACE] FLAP  [P] PAUSE  [Q] QUIT
-                  │▒▒│                 │▒▒│                 │▒▒│
-                  │▒▒│                 │▒▒│                 │▒▒│
-                 ╞════╡                 │▒▒│                .│▒▒│
+                  │▒▒│                  │▒▒│                 │▒▒│
+                  │▒▒│                  │▒▒│                 │▒▒│
+                 ╞════╡                 │▒▒│               . │▒▒│
                                         │▒▒│                ╞════╡
                 -@>                    ╞════╡
                                                        .
